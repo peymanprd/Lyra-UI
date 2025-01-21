@@ -1,50 +1,3 @@
-<<<<<<< HEAD
-# Lyra-UI
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-pnpm test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
-=======
 # Lyra UI 🌌
 
 **Lyra UI** is a modern and minimal Vue 3 component library inspired by the beauty of space and stars. It includes pre-built components, composable functions, and Tailwind CSS styles to help you quickly build beautiful and responsive user interfaces.
@@ -180,4 +133,3 @@ Thank you for using **Lyra UI**! If you have any questions or need assistance, w
 8. **Acknowledgments**: A thank-you note to users and contributors.
 
 If you need further adjustments or have any questions, feel free to ask! 😊
->>>>>>> f9164bc75e5e7bda0b5dc999ca2e3092c834e427
