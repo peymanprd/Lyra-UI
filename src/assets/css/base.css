@@ -1,0 +1,23 @@
+/* استایل‌های پایه برای دکمه */
+button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+/* استایل‌های پایه برای input */
+input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  width: 100%;
+}
+
+/* استایل‌های پایه برای کارت */
+.card {
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
