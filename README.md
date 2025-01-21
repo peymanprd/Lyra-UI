@@ -1,9 +1,3 @@
-# Lyra-UI
-Lyra is a UI modular library base on VueJS
-
----
-
-```markdown
 # Lyra UI 🌌
 
 **Lyra UI** is a modern and minimal Vue 3 component library inspired by the beauty of space and stars. It includes pre-built components, composable functions, and Tailwind CSS styles to help you quickly build beautiful and responsive user interfaces.
